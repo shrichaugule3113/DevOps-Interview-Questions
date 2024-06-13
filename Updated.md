@@ -92,6 +92,21 @@
 ```
 31.what is terraform state list command
 ```
-
-
+```
+32.What is the purpose of the terraform mv command?
+```
+```
+33.What does the terraform rm command do?
+```
+```
+34.How would you configure Jenkins to grant specific access permissions to different teams? For instance, if you have multiple folders (a, b, c) and you want to allow Team B to access and perform actions only in folder B, how would you achieve this?
+```
+```
+35.What is the master-slave architecture in Jenkins, and how does it work?
+```
+```
+36.In Jenkins, do you install plugins on the master node or the slave node?
+```
+```
+37.
 
