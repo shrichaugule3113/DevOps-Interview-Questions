@@ -108,5 +108,9 @@
 36.In Jenkins, do you install plugins on the master node or the slave node?
 ```
 ```
-37.
+37.How do you manage secrets stored in AWS SSM Service for the CI process in Jenkins?
+```
+```
+38.What is a shared library in Jenkins?
+```
 
