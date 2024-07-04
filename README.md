@@ -1,4 +1,6 @@
-###__Jenkins__
+__Jenkins__
+```yaml
+  common:
 What is Jenkins, and what is its primary purpose in the software development process?
 Explain the difference between Jenkins and other continuous integration/continuous delivery (CI/CD) tools.
 What are Jenkins pipelines, and why are they important?
@@ -18,9 +20,10 @@ How to troubleshoot Jenkins if any issues are encountered?
     Your company is adopting Infrastructure as Code (IaC) using tools like Terraform. How can you incorporate Terraform scripts into your Jenkins pipeline to automate the provisioning of infrastructure alongside application deployment?
     Your team is developing a mobile application for iOS and Android. How would you configure Jenkins to build and test the app for both platforms, considering the differences in build and testing tools?
     Your team is considering migrating from a traditional Jenkins setup to Jenkins Pipelines (Jenkinsfile). Explain the benefits of using Jenkins Pipelines and the steps you would take to migrate existing jobs.
-
+```
 
 __Docker__
+```yaml
   common:
     What is Docker, and how does it differ from traditional virtualization?
     Explain the key components of Docker's architecture.
@@ -46,7 +49,7 @@ __Docker__
     You have been tasked with implementing a blue-green deployment strategy for a Dockerized application. Explain the steps involved in this process and how it ensures minimal downtime during updates.
     You are responsible for monitoring a fleet of Docker containers in a production environment. What tools and practices would you use to monitor container health, resource usage, and performance?
 
-
+```
 
 __Kubernetes__
 ```yaml
