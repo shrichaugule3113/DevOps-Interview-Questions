@@ -1,10 +1,8 @@
 __Jenkins__
-```yaml
-  common:
 # What is Jenkins, and what is its primary purpose in the software development process?
 Jenkins is an open-source automation server written in Java. It is widely used in the field of software development for continuous integration (CI) and continuous delivery (CD). Jenkins helps automate 
 the parts of software development related to building, testing, and deploying, facilitating the continuous integration and continuous delivery of software projects.
-Jenkins is a powerful tool that plays a crucial role in automating the software development process. By facilitating continuous integration and continuous delivery, Jenkins helps ensure that code changes are consistently built, tested, and deployed, leading to faster development cycles, higher code quality, and more reliable software releases.
+Jenkins is a powerful tool that plays a crucial role in automating the software development process. By facilitating continuous integration and continuous delivery, Jenkins helps ensure that code changes are consistently built, tested, and deployed, leading to faster development cycles, higher code quality, and more reliable software releases. 
 # Explain the difference between Jenkins and other continuous integration/continuous delivery (CI/CD) tools.
 Open-source automation server written in Java.
 Highly extensible with a large number of plugins.
@@ -94,10 +92,9 @@ Pipelines can be designed to handle failures gracefully, with retry logic, notif
     Your company is adopting Infrastructure as Code (IaC) using tools like Terraform. How can you incorporate Terraform scripts into your Jenkins pipeline to automate the provisioning of infrastructure alongside application deployment?
     Your team is developing a mobile application for iOS and Android. How would you configure Jenkins to build and test the app for both platforms, considering the differences in build and testing tools?
     Your team is considering migrating from a traditional Jenkins setup to Jenkins Pipelines (Jenkinsfile). Explain the benefits of using Jenkins Pipelines and the steps you would take to migrate existing jobs.
-```
+
 
 __Docker__
-```yaml
   common:
     What is Docker, and how does it differ from traditional virtualization?
     Explain the key components of Docker's architecture.
@@ -123,7 +120,7 @@ __Docker__
     You have been tasked with implementing a blue-green deployment strategy for a Dockerized application. Explain the steps involved in this process and how it ensures minimal downtime during updates.
     You are responsible for monitoring a fleet of Docker containers in a production environment. What tools and practices would you use to monitor container health, resource usage, and performance?
 
-```
+
 
 __Kubernetes__
 ```yaml
