@@ -1,8 +1,9 @@
 __Jenkins__
 ## What is Jenkins, and what is its primary purpose in the software development process?
-#Jenkins is an open-source automation server written in Java. It is widely used in the field of software development for continuous integration (CI) and continuous delivery (CD). Jenkins helps automate 
+Jenkins is an open-source automation server written in Java. It is widely used in the field of software development for continuous integration (CI) and continuous delivery (CD). Jenkins helps automate 
 the parts of software development related to building, testing, and deploying, facilitating the continuous integration and continuous delivery of software projects.
-#Jenkins is a powerful tool that plays a crucial role in automating the software development process. By facilitating continuous integration and continuous delivery, Jenkins helps ensure that code changes are consistently built, tested, and deployed, leading to faster development cycles, higher code quality, and more reliable software releases. 
+
+Jenkins is a powerful tool that plays a crucial role in automating the software development process. By facilitating continuous integration and continuous delivery, Jenkins helps ensure that code changes are consistently built, tested, and deployed, leading to faster development cycles, higher code quality, and more reliable software releases. 
 # Explain the difference between Jenkins and other continuous integration/continuous delivery (CI/CD) tools.
 Open-source automation server written in Java.
 Highly extensible with a large number of plugins.
